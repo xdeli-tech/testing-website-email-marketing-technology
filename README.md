@@ -1,3 +1,3 @@
-# testing-website-skeleton
+# email-marketing-technology
 
-https://success-bridge-partners.company.t.dev.xdeli.com/
+https://email-marketing-technology.company.t.dev.xdeli.com/
